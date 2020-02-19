@@ -32,7 +32,7 @@ Programmed in **Javascript** and utilizes **NodeJS** and **React**.
 ------------
 ##### 2) Using The Application
 - In any web browser, visit http://localhost:8888
-- Click **Log in with Spotify ** or create a new account
+- Click **Log in with Spotify** or create a new account
 - You will then be directed to the Genesis Application Homepage
 
 ------------
