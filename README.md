@@ -14,10 +14,10 @@ Programmed in **Javascript** and utilizes **NodeJS** and **React**.
 ## Installing Genesis
 ##### 1) Install nodeJS dependencies
 - CD to **auth-server** folder in **cmd**
- ` npm install`
+- ` npm install`
 
 - CD to **client** folder in **cmd**
-` npm install`
+- ` npm install`
 
 ------------
 ##### 2) Starting The Server
